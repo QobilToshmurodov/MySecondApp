@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\ConsoleApp2\\ConsoleApp2.csproj": {}
+    "E:\\PROJECTS\\MySecondApp\\ConsoleApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\ConsoleApp2\\ConsoleApp2.csproj": {
+    "E:\\PROJECTS\\MySecondApp\\ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectUniqueName": "E:\\PROJECTS\\MySecondApp\\ConsoleApp2.csproj",
         "projectName": "ConsoleApp2",
-        "projectPath": "C:\\Users\\user\\source\\repos\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectPath": "E:\\PROJECTS\\MySecondApp\\ConsoleApp2.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\ConsoleApp2\\obj\\",
+        "outputPath": "E:\\PROJECTS\\MySecondApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
